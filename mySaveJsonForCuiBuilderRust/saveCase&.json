@@ -1,0 +1,67 @@
+{
+  "Case": [
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.5 0.5",
+          "anchormax": "0.5 0.5",
+          "offsetmin": "-420 -250",
+          "offsetmax": "420 250"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.172125 0.8513334",
+          "anchormax": "0.828125 0.8933333",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.4449998 0.6711097",
+          "anchormax": "0.539375 0.8392236",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.4449998 0.6381121",
+          "anchormax": "0.539375 0.668112",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    }
+  ]
+}

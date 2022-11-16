@@ -1,0 +1,416 @@
+{
+  "test": [
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.0006249702 0.385",
+          "anchormax": "0.999 0.495",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.009999843 0.442",
+          "anchormax": "0.0974997 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.009999843 0.389",
+          "anchormax": "0.0974997 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.09937474 0.389",
+          "anchormax": "0.1868746 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.09937474 0.442",
+          "anchormax": "0.1868746 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.1887499 0.442",
+          "anchormax": "0.2762499 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.1887499 0.389",
+          "anchormax": "0.2762499 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.2781251 0.442",
+          "anchormax": "0.365625 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.278125 0.389",
+          "anchormax": "0.3656254 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.3675022 0.442",
+          "anchormax": "0.4550021 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.3675022 0.389",
+          "anchormax": "0.4550021 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.4568791 0.442",
+          "anchormax": "0.5443791 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.4568791 0.389",
+          "anchormax": "0.5443791 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.5462562 0.442",
+          "anchormax": "0.6337563 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.5462562 0.389",
+          "anchormax": "0.6337563 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.6356333 0.442",
+          "anchormax": "0.7231333 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "material": "",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.6356333 0.389",
+          "anchormax": "0.7231327 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.7250101 0.442",
+          "anchormax": "0.81251 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.7250101 0.389",
+          "anchormax": "0.81251 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.8143872 0.442",
+          "anchormax": "0.9018872 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.8143872 0.389",
+          "anchormax": "0.9018872 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.9037642 0.442",
+          "anchormax": "0.9912642 0.492",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.9037642 0.389",
+          "anchormax": "0.9912642 0.439",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.02937501 0.3788889",
+          "anchormax": "0.09187499 0.49",
+          "offsetmax": "0 0"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0 0.5",
+          "anchormax": "0.848 0.54",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.8488 0.5",
+          "anchormax": "0.999 0.54",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    }
+  ]
+}

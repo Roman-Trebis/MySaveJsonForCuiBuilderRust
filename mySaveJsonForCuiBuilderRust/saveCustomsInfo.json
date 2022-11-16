@@ -1,0 +1,181 @@
+{
+  "OreBonusInfo": [
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.245 0.468",
+          "anchormax": "0.34 0.638",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.345 0.468",
+          "anchormax": "0.44 0.638",
+          "offsetmin": "0 0",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.445 0.468",
+          "anchormax": "0.54 0.638",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.545 0.468",
+          "anchormax": "0.64 0.638",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.645 0.468",
+          "anchormax": "0.74 0.638",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.245 0.642",
+          "anchormax": "0.74 0.678",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.245 0.42",
+          "anchormax": "0.34 0.464",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.345 0.42",
+          "anchormax": "0.44 0.464",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.445 0.42",
+          "anchormax": "0.54 0.464",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.545 0.42",
+          "anchormax": "0.64 0.464",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.645 0.42",
+          "anchormax": "0.74 0.464",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    }
+  ]
+}

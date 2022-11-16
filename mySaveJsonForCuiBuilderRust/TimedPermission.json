@@ -1,0 +1,191 @@
+{
+  "timepermission": [
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.239375 0.1466666",
+          "anchormax": "0.74375 0.8677778",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.239375 0.8733283",
+          "anchormax": "0.74375 0.9188844",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button",
+          "color": "1 0 0 1"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.715 0.8733283",
+          "anchormax": "0.74375 0.9199898",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.6831242 0.8733283",
+          "anchormax": "0.7118742 0.9199898",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.239375 0.8733283",
+          "anchormax": "0.268114 0.9199898",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.2712505 0.8733283",
+          "anchormax": "0.395 0.9199898",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.2712483 0.7822178",
+          "anchormax": "0.4162483 0.8533308",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.4193767 0.7822178",
+          "anchormax": "0.5643767 0.8533308",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.5675051 0.7822178",
+          "anchormax": "0.7125051 0.8533308",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.2712483 0.6966639",
+          "anchormax": "0.4162483 0.7677769",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Button"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.2712483 0.7822178",
+          "anchormax": "0.31 0.8533246",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.RawImage",
+          "url": "https://c.radikal.ru/c31/2108/51/73d298a81929.jpg",
+          "png": "https://c.radikal.ru/c31/2108/51/73d298a81929.jpg"
+        }
+      ]
+    },
+    {
+      "name": "CuiElement",
+      "parent": "Overlay",
+      "components": [
+        {
+          "type": "RectTransform",
+          "anchormin": "0.3106242 0.7822178",
+          "anchormax": "0.416875 0.8533246",
+          "offsetmax": "0 0"
+        },
+        {
+          "type": "UnityEngine.UI.Text",
+          "text": "группа vip\n6 дней 23 часа 59 минут",
+          "fontSize": 12,
+          "color": "1 0 0 1"
+        }
+      ]
+    }
+  ]
+}
